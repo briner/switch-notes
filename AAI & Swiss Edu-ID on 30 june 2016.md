@@ -1,3 +1,6 @@
+# Reference
+[slides](https://www.switch.ch/aai/events/update2016)
+
 # IDP
 ## OpenID connect Pilot
 by Michael Hausherr & Dominik Huber @ FNHW
