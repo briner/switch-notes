@@ -79,7 +79,7 @@ by Franz Peter Süss @ ZHAW & Michael Hausherr @ FNHW
 ### Nationalizenzen
 by Lionel Walter & Robin Meyer @ ETHZ
 
-They mainly use Swiss Edu ID to not have to manage an IdP, to allow anyone to get an account (Swiss Edu ID is open to anyone). They add to Swiss Edu ID an attribute which tells if the person leaves in Switzerland. The library provider gives free access for any resident in Switzerland. In that case, Nationalizenzen send either an message by sms to check if the person has a swiss phone (in that case the flag 'Swiss Resident' stay for 15 days), either they send a postal letter ('SwissResident' stay for live) but in that last case the process of sending the postal letter takes more days than the almost instantanate sms way
+They mainly use Swiss Edu ID to not have to manage an IdP, to allow anyone to get an account (Swiss Edu ID is open to anyone). They add to Swiss Edu ID an attribute which tells if the person leaves in Switzerland. The library provider gives free access for any resident in Switzerland. In that case, Nationalizenzen send either an message by sms to check if the person has a swiss phone (in that case the flag 'Swiss Resident' stay for 15 days), either they send a postal letter ('SwissResident' stay for live) but in that last case the qprocess of sending the postal letter takes more days than the almost instantanate sms way
 
 ### Swiss Library Service Platform
 by Basil Marty
@@ -95,3 +95,4 @@ by Rolf Brugger
 
 ### Follow-UP
 by Christoh Graf
+ - there is some way to link the account from Swiss Edu ID and the one from AAI. Then when migrating nothing more should be done
