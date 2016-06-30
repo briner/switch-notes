@@ -65,10 +65,9 @@ by Lukas Hämmerle @ Switch
 # Swiss Edu ID
 ## My personnal feeling
 - What is interesting in going to Swiss Edu ID is that they are pushing new services such as OpenID Connect, ldap, ad, Group Management
-
 - Ability to have a Swiss Edu ID even before getting in the university
-
-- Anyone can add new attributes (really an open position)
+- Anyone can add new attributes (really an open position
+- operated by Switch
 
 ## general presentation
 (nothing)
@@ -88,7 +87,11 @@ by Basil Marty
 (nothing)
 
 ## Transition from AAI to Swiss Edu ID
+### Migration Scenario
+by Rolf Brugger
 - during the transition their will be some linking
 - page listing when the feature of the SP are comming (ldap, AD, OpenID Connect, Management Group)
 - page listing how Swiss Edu ID is integrationg with AAI. To get the attribute they will create an SP operated by Switch which will collect information from our IdP
--
+
+### Follow-UP
+by Christoh Graf
