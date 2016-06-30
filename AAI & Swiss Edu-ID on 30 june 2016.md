@@ -1,5 +1,5 @@
 # Reference
-[slides](https://www.switch.ch/aai/events/update2016)
+- the [slides](https://www.switch.ch/aai/events/update2016) of the presentation
 
 # IDP
 ## OpenID connect Pilot
@@ -63,6 +63,13 @@ by Lukas Hämmerle @ Switch
  - move from transient ID to persistent ID in the SAML attribute
 
 # Swiss Edu ID
+## My personnal feeling
+- What is interesting in going to Swiss Edu ID is that they are pushing new services such as OpenID Connect, ldap, ad, Group Management
+
+- Ability to have a Swiss Edu ID even before getting in the university
+
+- Anyone can add new attributes (really an open position)
+
 ## general presentation
 (nothing)
 
@@ -79,3 +86,9 @@ They mainly use Swiss Edu ID to not have to manage an IdP, to allow anyone to ge
 by Basil Marty
 
 (nothing)
+
+## Transition from AAI to Swiss Edu ID
+- during the transition their will be some linking
+- page listing when the feature of the SP are comming (ldap, AD, OpenID Connect, Management Group)
+- page listing how Swiss Edu ID is integrationg with AAI. To get the attribute they will create an SP operated by Switch which will collect information from our IdP
+-
