@@ -57,6 +57,12 @@ The presentation was mainly about:
 by Lukas Hämmerle @ Switch
  - no release anymore of shac* attirbute
  - go from nothing, minimal, full to nothing, full
- - move from transient ID to persistent ID in the SAML *claims*
+ - move from transient ID to persistent ID in the SAML attribute
 
 # Swiss Edu ID
+## general presentation
+(nothing)
+
+##Pilot Projects
+###Registration portal with Evento
+by Franz Peter Süss @ ZHAW & Michael Hausherr @ FNHW
